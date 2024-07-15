@@ -3,7 +3,7 @@
 
 - 📚 I’m currently pursuing an Online IIT Madras Degree in  <strong> Data Science and Applications </strong>    (2023- present)
 
-- 👨‍💻 All of my projects are available at [https://vaibhav0221.github.io/CV/](Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vaibhav0221.github.io/CV/)
 
 - 🎓 I have completed my graduation from MBM University in <strong> Electronics and Communication </strong>    (2020-2024)
 
