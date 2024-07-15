@@ -20,7 +20,7 @@
     <a href="https://instagram.com/vai.bs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vai.bs_" height="60" width="60" /></a>
     </p>
 
-    <h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
     <p align="center"> 
         <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/> </a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
@@ -31,11 +31,10 @@
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> 
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a> 
         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> 
-        
-    </p>
+        </p>
     
-    <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav0221&show_icons=true&locale=en&layout=compact" alt="vaibhav0221" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav0221&show_icons=true&locale=en&layout=compact" alt="vaibhav0221" /></p>
 
-    <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav0221&show_icons=true&locale=en" alt="vaibhav0221" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav0221&show_icons=true&locale=en" alt="vaibhav0221" /></p>
 
-    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav0221&" alt="vaibhav0221" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav0221&" alt="vaibhav0221" /></p>
