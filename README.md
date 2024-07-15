@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Soni</h1>
 <h3 align="center">Continous learner</h3>
 
-
-
-- 📚 I’m currently pursuing an Online IIT Madras Degree **in Data Science and Applications**
+- 📚 I’m currently pursuing an Online IIT Madras Degree in ** Data Science and Applications** (2023- present)
 
 - 👨‍💻 All of my projects are available at [https://vaibhav0221.github.io/CV/](https://vaibhav0221.github.io/CV/)
 
-- 🎓 I have completed my graduation from MBM University **in Electronics and Communication**
+- 🎓 I have completed my graduation from MBM University in ** Electronics and Communication** (2020-2024)
 
 - 📫 How to reach me **vaibhavsonisatya1@gmail.com**
+
+- 💻 I am open to work.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
