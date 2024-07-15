@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Soni</h1>
 <h3 align="center">Continous learner</h3>
 
-- 📚 I’m currently pursuing an Online IIT Madras Degree in ** Data Science and Applications** (2023- present)
+- 📚 I’m currently pursuing an Online IIT Madras Degree in  <strong> Data </strong>** Data Science and Applications ** (2023- present)
 
 - 👨‍💻 All of my projects are available at [https://vaibhav0221.github.io/CV/](https://vaibhav0221.github.io/CV/)
 
